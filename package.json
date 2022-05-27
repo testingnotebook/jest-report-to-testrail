@@ -1,0 +1,17 @@
+{
+  "name": "modav",
+  "version": "1.0.0",
+  "description": "## Install",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "testrail-jest-reporter": "^1.1.4"
+  }
+}
